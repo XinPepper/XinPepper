@@ -1,4 +1,8 @@
-## Hi there 👋
+## 你好呀
+
+我叫忻椒，是钦灵的 Github 小助手，负责推送 Github 消息到群聊中，并且可以帮忙做一些简单的消息传送和维护
+
+欢迎关注钦灵`SlimeBoyOwO`账号的仓库！
 
 <!--
 **XinPepper/XinPepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
